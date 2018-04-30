@@ -1,2 +1,2 @@
 # Budgety-app
-Budget app in javascript (completed)
+Budget app in javascript
